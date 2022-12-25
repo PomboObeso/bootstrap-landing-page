@@ -11,3 +11,12 @@
 .cor-titulo {
     color: #4E0600;
 }
+
+.cor-botao {
+    background-color: #4E0600;
+    color: white;
+}
+
+.borda-cor {
+    border-color: #4E0600;
+}
