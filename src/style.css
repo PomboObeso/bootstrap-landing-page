@@ -20,3 +20,13 @@
 .borda-cor {
     border-color: #4E0600;
 }
+
+.card-img {
+    object-fit: cover;
+    object-position: 0 60%;
+    height: 200px;
+}
+
+.card-width {
+    max-width: 18rem;
+}
